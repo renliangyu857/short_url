@@ -11,6 +11,13 @@ https://i8tqkikctf.feishu.cn/drive/folder/RGM3fCminlFVyadvOFeckPYNnld?from=from_
 
 ![img](https://gitcode.net/rlyhaha/im/-/raw/master/wei.jpg.png?inline=false)
 ## 大厂训练营
+### 详情
+https://i8tqkikctf.feishu.cn/docx/Vchadq456oXLY6xPGiHctMV2nmf?from=from_copylink
+
+- 一对一辅导
+- 不限时间，直到找到工作
+- 保姆式跟陪，全程指导（八股文、企业级项目、模拟面试一网打尽）
+- 价格不到培训机构的1/4!，不到培训机构的1/4!，不到培训机构的1/4!!!
 ### 个人介绍
 - 985本硕，华为，腾讯，360，蚂蚁等多家大厂后端资深工程师。
 - 顶级开源项目分布式事务Seata Committer，阿里开源社区22年度及23年度优秀贡献者，在企业级项目开发、基础架构中间件源码分析有非常深入的理解。
@@ -22,3 +29,4 @@ https://i8tqkikctf.feishu.cn/drive/folder/RGM3fCminlFVyadvOFeckPYNnld?from=from_
 ![img](https://github.com/renliangyu857/short_url/raw/main/img/%E6%A1%88%E4%BE%8B3.png)
 ![img](https://raw.githubusercontent.com/renliangyu857/short_url/main/img/%E6%A1%88%E4%BE%8B4.png)
 ![img](https://raw.githubusercontent.com/renliangyu857/short_url/main/img/%E6%A1%88%E4%BE%8B5.png)
+
