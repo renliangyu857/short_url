@@ -10,5 +10,10 @@ https://i8tqkikctf.feishu.cn/drive/folder/RGM3fCminlFVyadvOFeckPYNnld?from=from_
 关于实现细节，可与我交流：  
 
 ![img](https://gitcode.net/rlyhaha/im/-/raw/master/wei.jpg.png?inline=false)
-## 24届校招交流群
 ## 大厂训练营
+### 个人介绍
+- 985本硕，华为，腾讯，360，蚂蚁等多家大厂后端资深工程师。
+- 顶级开源项目分布式事务Seata Committer，阿里开源社区22年度及23年度优秀贡献者，在企业级项目开发、基础架构中间件源码分析有非常深入的理解。
+- 作为校招面试官，参与校招面试100+次，深谙后端校招的各种面试套路及答题技巧；同时是某大型培训机构兼职老师，80+零基础校招生辅导经验，多名同学进入国内知名厂商工作。
+
+### 部分辅导成果
