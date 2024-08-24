@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.conductor.shortenurl.repository.UrlRepository">
+  <insert id="saveUrlMapping" parameterType="com.conductor.shortenurl.entity.UrlMapping"
+    useGeneratedKeys="true" keyProperty="id">
+    insert into url_mapping (short_url, long_url, created_time, expire_time)
+    values (#{shortUrl}, #{longUrl}, #{createdTime}, #{expireTime})
+  </insert>
+
+    <delete id="deleteExpiredUrlMappings">
+        delete from url_mapping where expire_time < now()
+    </delete>
+
+  <select id="getLongUrlByShortUrl" resultType="com.conductor.shortenurl.entity.UrlMapping">
+    select id as id,
+           short_url as shortUrl,
+           long_url as longUrl,
+           created_time as createdTime,
+           expire_time as expireTime
+    from url_mapping
+    where short_url = #{shortUrl}
+  </select>
+
+    <delete id="deleteUrlMapping" parameterType="string">
+        delete from url_mapping where short_url = #{shortUrl}
+    </delete>
+
+</mapper>
