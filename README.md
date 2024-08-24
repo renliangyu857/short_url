@@ -17,4 +17,8 @@ https://i8tqkikctf.feishu.cn/drive/folder/RGM3fCminlFVyadvOFeckPYNnld?from=from_
 - 作为校招面试官，参与校招面试100+次，深谙后端校招的各种面试套路及答题技巧；同时是某大型培训机构兼职老师，80+零基础校招生辅导经验，多名同学进入国内知名厂商工作。
 
 ### 部分辅导成果
-![img](https://github.com/renliangyu857/short_url/raw/main/img/%E6%A1%88%E4%BE%8B1.png)
+![img](https://github.com/renliangyu857/short_url/raw/main/img/%E6%A1%88%E4%BE%8B1.png)  
+![img](https://raw.githubusercontent.com/renliangyu857/short_url/main/img/%E6%A1%88%E4%BE%8B2.png)
+![img](https://github.com/renliangyu857/short_url/raw/main/img/%E6%A1%88%E4%BE%8B3.png)
+![img](https://raw.githubusercontent.com/renliangyu857/short_url/main/img/%E6%A1%88%E4%BE%8B4.png)
+![img](https://raw.githubusercontent.com/renliangyu857/short_url/main/img/%E6%A1%88%E4%BE%8B5.png)
