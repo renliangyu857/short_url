@@ -1,37 +1,19 @@
-# shortenurl
+<h1 align="center">高并发企业级短链接服务</h1>
+<p align="center">
+    <a href="http://121.37.44.160:8080/i/2024/07/12/st93sv.png"><img src="https://img.shields.io/badge/WeChat-%E8%81%94%E7%B3%BB%E6%88%91-blue" alt="联系我"></a>
+<a href="http://121.37.44.160:8080/i/2024/07/12/svnpyf.jpg"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%A8%8B%E5%BA%8F%E5%91%98%E8%BE%B0%E6%98%9F-green" alt="大厂训练营"></a>
+  <a href="https://i8tqkikctf.feishu.cn/docx/Vchadq456oXLY6xPGiHctMV2nmf?from=from_copylink"><img src="https://img.shields.io/badge/%E5%A4%A7%E5%8E%82%E8%AE%AD%E7%BB%83%E8%90%A5-%E7%82%B9%E5%87%BB%E4%BA%86%E8%A7%A3-green"></a>
+        </p>
 
-#### 介绍
-短链接项目
+## 完整免费文档
+https://i8tqkikctf.feishu.cn/drive/folder/RGM3fCminlFVyadvOFeckPYNnld?from=from_copylink  
+关于实现细节，可与我交流：  
 
-#### 软件架构
-软件架构说明
+![img](https://gitcode.net/rlyhaha/im/-/raw/master/wei.jpg.png?inline=false)
+## 大厂训练营
+### 个人介绍
+- 985本硕，华为，腾讯，360，蚂蚁等多家大厂后端资深工程师。
+- 顶级开源项目分布式事务Seata Committer，阿里开源社区22年度及23年度优秀贡献者，在企业级项目开发、基础架构中间件源码分析有非常深入的理解。
+- 作为校招面试官，参与校招面试100+次，深谙后端校招的各种面试套路及答题技巧；同时是某大型培训机构兼职老师，80+零基础校招生辅导经验，多名同学进入国内知名厂商工作。
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### 部分辅导成果
