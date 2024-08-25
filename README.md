@@ -5,9 +5,12 @@
   <a href="https://i8tqkikctf.feishu.cn/docx/Vchadq456oXLY6xPGiHctMV2nmf?from=from_copylink"><img src="https://img.shields.io/badge/%E5%A4%A7%E5%8E%82%E8%AE%AD%E7%BB%83%E8%90%A5-%E7%82%B9%E5%87%BB%E4%BA%86%E8%A7%A3-green"></a>
         </p>
 
-## 完整免费文档
-https://i8tqkikctf.feishu.cn/drive/folder/RGM3fCminlFVyadvOFeckPYNnld?from=from_copylink  
-关于实现细节，可与我交流：  
+## 个人介绍
+- 985本硕，华为，腾讯，360，蚂蚁等多家大厂后端资深工程师。
+- 顶级开源项目分布式事务Seata Committer，阿里开源社区22年度及23年度优秀贡献者，在企业级项目开发、基础架构中间件源码分析有非常深入的理解。
+- 作为校招面试官，参与校招面试100+次，深谙后端校招的各种面试套路及答题技巧；同时是某大型培训机构兼职老师，80+零基础校招生辅导经验，多名同学进入国内知名厂商工作。
+
+获取完整免费文档，及实现细节交流，可联系我：  
 
 ![img](https://gitcode.net/rlyhaha/im/-/raw/master/wei.jpg.png?inline=false)
 ## 大厂训练营
@@ -16,12 +19,8 @@ https://i8tqkikctf.feishu.cn/docx/Vchadq456oXLY6xPGiHctMV2nmf?from=from_copylink
 
 - 一对一辅导
 - 不限时间，直到找到工作
-- 保姆式跟陪，全程指导（八股文、企业级项目、模拟面试一网打尽）
+- 保姆式跟陪，全程指导（八股文重难点、校招面试套路、企业级项目、模拟面试一网打尽）
 - 价格不到培训机构的1/4!，不到培训机构的1/4!，不到培训机构的1/4!!!
-### 个人介绍
-- 985本硕，华为，腾讯，360，蚂蚁等多家大厂后端资深工程师。
-- 顶级开源项目分布式事务Seata Committer，阿里开源社区22年度及23年度优秀贡献者，在企业级项目开发、基础架构中间件源码分析有非常深入的理解。
-- 作为校招面试官，参与校招面试100+次，深谙后端校招的各种面试套路及答题技巧；同时是某大型培训机构兼职老师，80+零基础校招生辅导经验，多名同学进入国内知名厂商工作。
 
 ### 导师阵容
 - 辰星老师：参考我的个人介绍
